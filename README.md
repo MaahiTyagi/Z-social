@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/qJRbqct/z-removebg-preview.png" width="180">
+  <img src="https://i.ibb.co/qJRbqct/z-removebg-preview.png" height="180">
 </p>
 
 
