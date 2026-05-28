@@ -1,5 +1,7 @@
 
-![Logo](https://i.ibb.co/qJRbqct/z-removebg-preview.png)
+<p align="center">
+  <img src="https://i.ibb.co/qJRbqct/z-removebg-preview.png" width="180">
+</p>
 
 
 
